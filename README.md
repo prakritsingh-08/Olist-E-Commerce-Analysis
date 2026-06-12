@@ -32,8 +32,8 @@
 | Attribute | Detail |
 |-----------|--------|
 | **Project Title** | Olist E-Commerce Business Analysis |
-| **Analyst** | Prakrit Singh |
-| **Period** | 01 June 2026 – 09 June 2026 |
+| **Analyst** | Prakrit Kumar |
+| **Period** | 01 June 2026 – 15 June 2026 |
 | **Dataset Source** | [Kaggle — Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) |
 
 **Objective:** Clean, transform, and analyze the Olist multi-table e-commerce dataset to answer key business questions and deliver actionable insights via SQL queries and a Power BI dashboard.
